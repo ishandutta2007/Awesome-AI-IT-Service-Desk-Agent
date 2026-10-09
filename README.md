@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-IT-Service-Desk-Agent"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-IT-Service-Desk-Agent?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-IT-Service-Desk-Agent"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-IT-Service-Desk-Agent?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-IT-Service-Desk-Agent/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-IT-Service-Desk-Agent?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-IT-Service-Desk-Agent/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-IT-Service-Desk-Agent?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -73,40 +73,40 @@ The AI IT service desk agent market spans **CRM-integrated autonomous agents** (
 
 ## 🔓 Open-Source GitHub Projects 🔓
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
-  **Workflow automation with AI capabilities**, Sustainable Use License. **206K+ GitHub stars** — **the most popular open-source automation platform**. **AI Workflow Builder with plain English prompts**. **400+ integrations**. 🔄
+  **Workflow automation with AI capabilities**, Sustainable Use License. **206K+ GitHub_Stars** — **the most popular open-source automation platform**. **AI Workflow Builder with plain English prompts**. **400+ integrations**. 🔄
 
 - **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
-  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **157K+ GitHub stars** — **visual drag-and-drop workflow builder**. **Built-in RAG pipelines and agent nodes**. **100+ LLM providers**. **Self-hosted or Dify Cloud**. 🎨
+  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **157K+ GitHub_Stars** — **visual drag-and-drop workflow builder**. **Built-in RAG pipelines and agent nodes**. **100+ LLM providers**. **Self-hosted or Dify Cloud**. 🎨
 
 - **[Langflow](https://github.com/langflow-ai/langflow)** [![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
-  **Open-source UI for multi-agent AI framework**, MIT licensed. **155K+ GitHub stars** — **visual builder for multi-agent AI applications and RAG systems**. Integrates seamlessly with Python LLM stacks. 🤖
+  **Open-source UI for multi-agent AI framework**, MIT licensed. **155K+ GitHub_Stars** — **visual builder for multi-agent AI applications and RAG systems**. Integrates seamlessly with Python LLM stacks. 🤖
 
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
-  **Open-source drag-and-drop UI for AI agents & RAG**, MIT licensed. **55K+ GitHub stars** — build customized LLM orchestration workflows, autonomous agents, and IT support chatbots using LangChainJS nodes. ⚡
+  **Open-source drag-and-drop UI for AI agents & RAG**, MIT licensed. **55K+ GitHub_Stars** — build customized LLM orchestration workflows, autonomous agents, and IT support chatbots using LangChainJS nodes. ⚡
 
 - **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
-  **Open-source customer engagement suite**, MIT licensed. **37K+ GitHub stars** — **the most widely deployed open-source support desk**. **Omnichannel: website, email, WhatsApp, Facebook, Instagram, SMS**. **Self-hosted deployment for full data control**. 💬
+  **Open-source customer engagement suite**, MIT licensed. **37K+ GitHub_Stars** — **the most widely deployed open-source support desk**. **Omnichannel: website, email, WhatsApp, Facebook, Instagram, SMS**. **Self-hosted deployment for full data control**. 💬
 
 - **[Activepieces](https://github.com/activepieces/activepieces)** [![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
-  **Open-source AI-first workflow automation**, MIT licensed. **24K+ GitHub stars** — open-source alternative to Zapier / Make for automating IT ticketing, alerts, and internal AI workflows with 100+ prebuilt pieces. 🧩
+  **Open-source AI-first workflow automation**, MIT licensed. **24K+ GitHub_Stars** — open-source alternative to Zapier / Make for automating IT ticketing, alerts, and internal AI workflows with 100+ prebuilt pieces. 🧩
 
 - **[UVDesk](https://github.com/uvdesk/community-skeleton)** [![Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
-  **Open-source helpdesk ticket system**, MIT licensed. **19K+ GitHub stars** — enterprise-grade PHP/Symfony helpdesk system featuring ticket routing, multi-channel support, knowledge base, and custom workflows. 📨
+  **Open-source helpdesk ticket system**, MIT licensed. **19K+ GitHub_Stars** — enterprise-grade PHP/Symfony helpdesk system featuring ticket routing, multi-channel support, knowledge base, and custom workflows. 📨
 
 - **[GLPI](https://github.com/glpi-project/glpi)** [![Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
-  **Open-source IT Asset & Service Management**, GPL-3.0 licensed. **6.4K+ GitHub stars** — full-featured open-source ITSM & ITAM framework with ticket management, asset tracking, inventory, and SLA management. 🖥️
+  **Open-source IT Asset & Service Management**, GPL-3.0 licensed. **6.4K+ GitHub_Stars** — full-featured open-source ITSM & ITAM framework with ticket management, asset tracking, inventory, and SLA management. 🖥️
 
 - **[Zammad](https://github.com/zammad/zammad)** [![Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
-  **Open-source helpdesk and customer support system**, AGPL-3.0 licensed. **5.9K+ GitHub stars** — **the most feature-complete open-source helpdesk** — ticket management, knowledge base, SLA management, and multi-channel support. **REST API and integrations**. 🎫
+  **Open-source helpdesk and customer support system**, AGPL-3.0 licensed. **5.9K+ GitHub_Stars** — **the most feature-complete open-source helpdesk** — ticket management, knowledge base, SLA management, and multi-channel support. **REST API and integrations**. 🎫
 
 - **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
-  **Open-source helpdesk & shared inbox**, AGPL-3.0 licensed. **4.5K+ GitHub stars** — lightweight, mobile-friendly PHP/Laravel open-source helpdesk alternative to Help Scout and Zendesk. 📬
+  **Open-source helpdesk & shared inbox**, AGPL-3.0 licensed. **4.5K+ GitHub_Stars** — lightweight, mobile-friendly PHP/Laravel open-source helpdesk alternative to Help Scout and Zendesk. 📬
 
 - **[osTicket](https://github.com/osTicket/osTicket)** [![Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
-  **Open-source customer support ticket system**, GPL-2.0 licensed. **3.9K+ GitHub stars** — classic, battle-tested open-source support ticketing system with email routing, custom fields, and ticket filters. 🎟️
+  **Open-source customer support ticket system**, GPL-2.0 licensed. **3.9K+ GitHub_Stars** — classic, battle-tested open-source support ticketing system with email routing, custom fields, and ticket filters. 🎟️
 
 - **[Bytedesk](https://github.com/Bytedesk/bytedesk)** [![Stars](https://img.shields.io/github/stars/Bytedesk/bytedesk?style=social&color=white)](https://github.com/Bytedesk/bytedesk/stargazers)  
   **Open-source IM with AI-powered live-chat, email, ticket support, and omni-channel customer service**, open-source. **Alternative to Slack + Zendesk/Intercom/HubSpot/Ada/Decagon/Sierra**. **AI Agent with Ollama/DeepSeek/ZhipuAI support**. **Knowledge base with RAG**. **Function calling and MCP**. **Ticket management with SLA**. **Call center based on FreeSWITCH** with call recording and statistics. **The most complete open-source service desk platform**. 🎫
